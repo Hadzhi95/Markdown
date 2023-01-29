@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "react-markdown": "^8.0.5",
     "uuid": "^9.0.0"
   },
   "devDependencies": {

@@ -41,7 +41,7 @@ export function NoteList({ availableTags, notes }: NoteListProp) {
                 <Col>
                     <h1>Notes</h1>
                 </Col>
-                <Col>
+                <Col xs="auto">
                     <Stack gap={2} direction="horizontal">
                         <Link to="/new">
                             <Button variant="primary">Create</Button>
